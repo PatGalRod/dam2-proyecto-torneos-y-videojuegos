@@ -1,2 +1,23 @@
-# dam2-proyecto-torneos-y-videojuegos
-App de torneos en la que los usuarios pueden crear torneos y unirse a torneos creados por otros usuarios. Estos torneos pueden ser de cualquier disciplina, ya sea de juego de cartas o videojuegos.
+# 🏆 dam2-proyecto-torneos-y-videojuegos
+
+¡Bienvenido al repositorio oficial del proyecto! Esta es una aplicación web/móvil diseñada para la **gestión, creación y participación en torneos** de diversas disciplinas, abarcando desde los videojuegos más competitivos hasta los juegos de cartas coleccionables más populares.
+
+---
+
+## 🚀 Descripción del Proyecto
+
+Nuestra plataforma permite a los usuarios interactuar en un ecosistema competitivo y amigable:
+* **Creación de Torneos:** Diseña tus propios campeonatos personalizando las reglas, las disciplinas y los formatos de juego.
+* **Inscripción Dinámica:** Explora y únete a torneos organizados por otros miembros de la comunidad.
+* **Soporte Multidisciplinar:** Pensado tanto para la comunidad de *eSports* (videojuegos) como para los amantes del formato físico (juegos de cartas, tablero, etc.).
+
+---
+
+## 👥 Integrantes del Equipo
+
+El desarrollo de este proyecto está a cargo del siguiente equipo de desarrolladores de **2º de DAM**:
+
+* 💻 **Pablo Rico Mejía**
+* 💻 **Nicolás Safonov Gusev**
+* 💻 **José Patricio Galán Rodríguez**
+* 💻 **Néstor Arroyo Serrano**
