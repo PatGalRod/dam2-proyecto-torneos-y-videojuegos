@@ -17,7 +17,7 @@ Nuestra plataforma permite a los usuarios interactuar en un ecosistema competiti
 
 El desarrollo de este proyecto está a cargo del siguiente equipo de desarrolladores de **2º de DAM**:
 
-* 💻 **Pablo Rico Mejía**
-* 💻 **Nicolás Safonov Gusev**
-* 💻 **José Patricio Galán Rodríguez**
-* 💻 **Néstor Arroyo Serrano**
+* 💻 **Pablo Rico Mejía** - Product Owner 
+* 💻 **Nicolás Safonov Gusev** - Developer
+* 💻 **José Patricio Galán Rodríguez** - Scrum Master
+* 💻 **Néstor Arroyo Serrano** - Developer
