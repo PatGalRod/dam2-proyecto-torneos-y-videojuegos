@@ -20,4 +20,7 @@ El desarrollo de este proyecto está a cargo del siguiente equipo de desarrollad
 * 💻 **Pablo Rico Mejía** - Product Owner 
 * 💻 **Nicolás Safonov Gusev** - Developer
 * 💻 **José Patricio Galán Rodríguez** - Scrum Master
-* 💻 **Néstor Arroyo Serrano** - Developer
+
+## 📹 Video del proyecto
+
+[Link de Youtube](https://youtu.be/2AAFoJBZqCY)
